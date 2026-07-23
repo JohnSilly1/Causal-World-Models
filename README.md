@@ -157,6 +157,22 @@ The interactive demonstration is available for controlled demonstrations. It exp
 Source availability, reproducibility artifacts, trained checkpoints, and licensing terms will be announced after the academic review process.
 
 ---
+### 🌐 Architectural Scalability & Ecosystem
+
+The CWM (Causal World Model) core presented in this repository is designed as a foundational, high-efficiency latent engine. To demonstrate its viability for real-world artificial general intelligence (AGI) applications, we have successfully integrated this $O(1)$ latent simulation core into our private agentic operating framework, **SWILL v8.0** (an extensive infrastructure consisting of 40k+ lines of asynchronous Python code across 700+ isolated modules).
+
+Within the SWILL ecosystem, the CWM core powers:
+* **The Curiosity Engine:** Maximizing cognitive progress and dynamically adapting exploration goals based on the system's runtime stress levels.
+* **The Epistemic Arena:** Enabling a decentralized swarm of agents to run parallel hypothesis validation and consensus filtering via automated $O(1)$ prediction loops, completely neutralizing autoregressive context explosion and token costs.
+
+### 🔒 Access & Collaboration
+
+To maintain strict IP protection, compute-cost efficiency, and align with responsible Deep Tech development, the complete codebase for the SWILL infrastructure and raw CWM weights are currently kept private. 
+
+However, we are fully open to technical feedback, academic collaboration, and pre-seed research grants. If you are an AI researcher, an arXiv endorser (category `cs.LG`), or a strategic ecosystem partner interested in seeing a live technical review of the integrated CWM+SWILL swarm framework, please reach out directly via the public email listed on this GitHub profile. 
+
+Let's discuss how we can completely break the Transformer bottleneck together.
+
 
 <div align="center">
 
