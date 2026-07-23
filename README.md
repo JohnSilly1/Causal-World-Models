@@ -70,9 +70,9 @@ The local blind out-of-distribution examination presented the model with three c
 
 | Candidate future | Surprise energy (MSE) | Rank | Interpretation |
 |---|---:|---:|---|
-| 💥 **Directed destruction** | **0.000099** | **1** | Physically structured transition selected |
-| 🧊 Static freezing | 0.000151 | 2 | Identity shortcut rejected |
-| 🌀 Chaotic nonsense | 0.000289 | 3 | Unstructured change rejected |
+|  **Directed destruction** | **0.000099** | **1** | Physically structured transition selected |
+|  Static freezing | 0.000151 | 2 | Identity shortcut rejected |
+|  Chaotic nonsense | 0.000289 | 3 | Unstructured change rejected |
 
 ```text
 E(directed destruction) < E(static freezing) < E(chaotic nonsense)
@@ -124,7 +124,7 @@ The demonstration is intended for private technical presentations, research revi
 
 The full technical report is available in the repository root:
 
-### [📄 CWM Technical Paper — PDF](./CWM_Technical_Paper.pdf)
+### [ CWM Technical Paper — PDF](./CWM_Technical_Paper.pdf)
 
 The report contains the mathematical formulation of the object encoder, directed interaction layer, residual latent physics engine, energy critic, computational-complexity analysis, high-dynamics synthetic dataset, and blind OOD evaluation.
 
@@ -157,7 +157,7 @@ The interactive demonstration is available for controlled demonstrations. It exp
 Source availability, reproducibility artifacts, trained checkpoints, and licensing terms will be announced after the academic review process.
 
 ---
-### 🌐 Architectural Scalability & Ecosystem
+### Architectural Scalability & Ecosystem
 
 The CWM (Causal World Model) core presented in this repository is designed as a foundational, high-efficiency latent engine. To demonstrate its viability for real-world artificial general intelligence (AGI) applications, we have successfully integrated this $O(1)$ latent simulation core into our private agentic operating framework, **SWILL v8.0** (an extensive infrastructure consisting of 40k+ lines of asynchronous Python code across 700+ isolated modules).
 
@@ -165,7 +165,7 @@ Within the SWILL ecosystem, the CWM core powers:
 * **The Curiosity Engine:** Maximizing cognitive progress and dynamically adapting exploration goals based on the system's runtime stress levels.
 * **The Epistemic Arena:** Enabling a decentralized swarm of agents to run parallel hypothesis validation and consensus filtering via automated $O(1)$ prediction loops, completely neutralizing autoregressive context explosion and token costs.
 
-### 🔒 Access & Collaboration
+### Access & Collaboration
 
 To maintain strict IP protection, compute-cost efficiency, and align with responsible Deep Tech development, the complete codebase for the SWILL infrastructure and raw CWM weights are currently kept private. 
 
